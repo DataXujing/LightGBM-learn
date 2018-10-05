@@ -1,0 +1,274 @@
+---
+title: "LightGBM:A Highly Efficient Gradient Boosting Decision Tree"
+author: "王太峰 [徐静 整理]"
+date: '2018/10/05'
+output:
+  xaringan::moon_reader:
+    css: [default, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+![](img/1.png)
+
+
+
+---
+class: center, middle
+
+
+![](img/2.png)
+
+---
+class: center, middle
+
+
+![](img/3.png)
+
+
+---
+class: center, middle
+
+
+![](img/4.png)
+
+---
+class: center, middle
+
+
+![](img/5.png)
+
+---
+class: center, middle
+
+
+![](img/6.png)
+
+
+---
+class: center, middle
+
+
+![](img/7.png)
+
+
+---
+class: center, middle
+
+
+![](img/8.png)
+
+---
+class: center, middle
+
+
+![](img/9.png)
+
+---
+class: center, middle
+
+![](img/10.png)
+
+---
+class: center, middle
+
+![](img/11.png)
+
+---
+class: center, middle
+
+![](img/12.png)
+
+---
+class: center, middle
+
+![](img/13.png)
+---
+class: center, middle
+
+![](img/14.png)
+
+
+---
+class: center, middle
+
+![](img/15.png)
+
+---
+class: center, middle
+
+![](img/16.png)
+
+
+---
+class: center, middle
+
+![](img/17.png)
+
+---
+class: center, middle
+
+![](img/18.png)
+
+---
+class: center, middle
+
+![](img/19.png)
+
+---
+class: center, middle
+
+![](img/20.png)
+
+---
+class: center, middle
+
+![](img/21.png)
+
+---
+class: center, middle
+
+![](img/22.png)
+
+---
+class: center, middle
+
+![](img/23.png)
+
+---
+class: center, middle
+
+![](img/24.png)
+
+---
+class: center, middle
+
+![](img/25.png)
+
+---
+class: center, middle
+
+![](img/26.png)
+
+---
+class: center, middle
+
+![](img/27.png)
+
+---
+class: center, middle
+
+![](img/28.png)
+
+---
+class: center, middle
+
+![](img/29.png)
+
+---
+class: center, middle
+
+![](img/30.png)
+
+
+
+---
+class: center, middle
+
+![](img/31.png)
+
+
+---
+class: center, middle
+
+![](img/32.png)
+
+
+---
+class: center, middle
+
+![](img/33.png)
+
+---
+class: center, middle
+
+![](img/34.png)
+
+---
+class: center, middle
+
+![](img/35.png)
+
+---
+class: center, middle
+
+![](img/36.png)
+
+---
+class: center, middle
+
+![](img/37.png)
+
+---
+class: center, middle
+
+![](img/38.png)
+
+---
+class: center, middle
+
+![](img/39.png)
+
+---
+class: center, middle
+
+![](img/40.png)
+
+
+---
+class: center, middle
+
+![](img/41.png)
+
+---
+class: center, middle
+
+![](img/42.png)
+
+
+---
+class: left, middle
+
+## 参考资料
+[1].[LightGBM: A Highly Efficient Gradient Boosting Decision Tree](http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
+
+[2].[lightGBM视频教程](https://v.qq.com/x/page/k0362z6lqix.html)
+
+[3].[lightGBM-CN](http://lightgbm.apachecn.org/cn/latest/index.html)
+
+[4].[论文解读1](https://blog.csdn.net/u010242233/article/details/79769950)
+
+[5].[论文解读2](https://blog.csdn.net/u014411730/article/details/78816859)
+
+[6].[论文解读3](https://blog.csdn.net/shine19930820/article/details/79123216)
+
+
+
+
+
+
+---
+class: center, middle
+
+![](img/43.png)
+
+
+
+

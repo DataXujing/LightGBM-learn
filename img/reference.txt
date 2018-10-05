@@ -1,0 +1,11 @@
+[LightGBM: A Highly Efficient Gradient Boosting Decision Tree](http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
+
+[lightGBM视频教程]https://v.qq.com/x/page/k0362z6lqix.html
+
+[lightGBM-CN]http://lightgbm.apachecn.org/cn/latest/index.html
+
+[论文解读1](https://blog.csdn.net/u010242233/article/details/79769950)
+
+[论文解读2](https://blog.csdn.net/u014411730/article/details/78816859)
+
+[论文解读3](https://blog.csdn.net/shine19930820/article/details/79123216)
